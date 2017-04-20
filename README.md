@@ -6,9 +6,9 @@ Open Source Braille Display
 
 ## Prototype
 
-<h5>Software</h5>
+Software
 ![Software](/doc/DiagramaCasosDeUso.png)
 
-<h5>Hardware</h5>
+Hardware
 - First Step - Test with LED:
 ![Hardware](/doc/CircuitoEletronicoFase1.png)
